@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_color">#F50F64</color>
+    <color name="app_green_color">#2DB900</color>
+    <color name="app_blue_color">#59CBE8</color>
+    <color name="app_light_gray_color">#BDBEC2</color>
+</resources>

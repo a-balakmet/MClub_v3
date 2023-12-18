@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "544520920868",
+    "firebase_url": "https://magnum-bonus-pay.firebaseio.com",
+    "project_id": "magnum-bonus-pay",
+    "storage_bucket": "magnum-bonus-pay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544520920868:android:f9eade1e0ed31137",
+        "android_client_info": {
+          "package_name": "kz.magnum.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544520920868-ncae8fmdt33gib47ccat135evm1oshsn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kz.magnum.app",
+            "certificate_hash": "d8fb44ed1da80663e26e18dee203f9f8b843d7bf"
+          }
+        },
+        {
+          "client_id": "544520920868-oeu78pm2mcfn68snc03q7svk1f5rjnvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmd3hCsON7vwUG33Yuk61kIVP5qvaDX0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544520920868-oeu78pm2mcfn68snc03q7svk1f5rjnvg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "544520920868-k6aklpl6sii1hvvidpi633ljs2f81evg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kz.magnum.app-staging"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg width="24" height="24" viewBox="0 0 6.3499999 6.35" version="1.1" id="svg608" xmlns="http://www.w3.org/2000/svg">
+  <defs
+     id="defs605" />
+  <g
+     id="layer1">
+    <g
+       id="Medium-M"
+       transform="matrix(0.05197029,0,0,0.05197029,0.52916655,0.52916655)">
+      <path
+         stroke-opacity="1"
+         stroke-miterlimit="4"
+         stroke-linecap="butt"
+         fill-opacity="1"
+         color="#000000"
+         fill-rule="nonzero"
+         stroke-width="2.25299"
+         stroke-linejoin="miter"
+         stroke="none"
+         fill="#000000"
+         stroke-dasharray="none"
+         d="M 11.195,5.214 H 81.906 M 11.191,0 V 10.432 H 81.907 V 0 Z m 0,15.946 v 85.875 H 55.078 C 76.056,101.821 90.63,91.02 90.63,75.407 90.63,59.794 76.056,49.645 55.078,49.645 H 32.813 V 31.819 H 81.654 V 15.946 Z M 32.813,64.09 h 21.144 c 9.608,0 15.213,4.422 15.213,11.317 0,6.896 -5.605,11.318 -15.213,11.318 H 32.813 Z m 0,0"
+         id="path271" />
+    </g>
+  </g>
+</svg>
